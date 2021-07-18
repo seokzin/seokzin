@@ -8,5 +8,6 @@
 
 ### 1 Day 1 Commit !!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seokzin&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
----
+[![seokzin's github stats](https://github-readme-stats.vercel.app/api?username=seokzin&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![seokzin's solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokzin)](https://solved.ac/seokzin)
