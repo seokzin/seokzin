@@ -1,16 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Seokzin%20So&fontSize=80&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=40&desc=Hello%20World!&descAlignY=65&animation=twinkling)
 
 <div align="center">
 
 ## Hello, I'm Seokzin
   
-🖥 Front-End MANIA 🖥 
+#### 🖥 Front-End MANIA 🖥 
 
-🔥 1 Day 1 Committer 🔥
+#### 🔥 1 Day 1 Committer 🔥
   
-🎨 Interested in UI/UX 🎨 
+#### 🎨 Interested in UI/UX 🎨 
    
-📚 Bookworm 📚 
+#### 📚 Bookworm 📚 
   
 <br/>
 <br/>
@@ -23,21 +23,26 @@
   
 <br/>
 <br/>
-<br/>
   
 ## Front-End Stack
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<br/>
 <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-0055AA?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwindcss&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Git_Convention-555555?style=flat-square&logo=github&logoColor=white"/>
 </div>
 
 <br/>
@@ -47,12 +52,17 @@
 ## Tools
 
 <div>
-<img src="https://img.shields.io/badge/Git_Convention-555555?style=flat-square&logo=github&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Premiere_Pro-4A0054?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-4A0054?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<br/>
 </div>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -60,3 +70,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%239EA9F3&title_bg=%234D7BD9&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100)
