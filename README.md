@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Seokzin%20So&fontSize=80&animation=fadeIn&fontAlignY=40)
 
-
-
 <div align="center">
 
 ## Hello, I'm Seokzin
@@ -18,9 +16,9 @@
 <br/>
 <br/>
   
-[![seokzin's github stats](https://github-readme-stats.vercel.app/api?username=seokzin&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![seokzin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokzin&layout=compact&langs_count=6&card_width=573)](https://github.com/anuraghazra/github-readme-stats)
   
-[![seokzin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokzin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![seokzin's github stats](https://github-readme-stats.vercel.app/api?username=seokzin&show_icons=true&theme=vue-dark&bg_color=DEG,7DB078,45ACC9,468F81&title_color=ffffff&test_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=10&count_private=true&line_height=21&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![seokzin's solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokzin)](https://solved.ac/seokzin)
   
 <br/>
