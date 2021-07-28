@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=40&desc=Hello%20World!&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=45&desc=Code%20Poet&descAlignY=65&animation=twinkling)
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 <br/>
 <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Context_API-0055AA?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hooks-0088CC?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -67,7 +67,7 @@
 <br/>
 <br/>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%239EA9F3&title_bg=%234D7BD9&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%238B96BA&title_bg=%23424D82&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
