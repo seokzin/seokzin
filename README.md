@@ -16,33 +16,34 @@
 <br/>
 <br/>
   
-[![seokzin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokzin&layout=compact&langs_count=6&card_width=573)](https://github.com/anuraghazra/github-readme-stats)
-  
 [![seokzin's github stats](https://github-readme-stats.vercel.app/api?username=seokzin&show_icons=true&theme=vue-dark&bg_color=DEG,7DB078,45ACC9,468F81&title_color=ffffff&test_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=10&count_private=true&line_height=21&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![seokzin's solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokzin)](https://solved.ac/seokzin)
+
+[![seokzin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokzin&layout=compact&langs_count=6&card_width=573)](https://github.com/anuraghazra/github-readme-stats)
   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seokzin&hide_border=true)](https://git.io/streak-stats)
 <br/>
 <br/>
   
-## Front-End Stack
+## Stacks
 
 <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-B82C29?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-AC3034?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-9F343F?style=flat-square&logo=Tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-92394B?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-873D56?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Context_API-0055AA?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hooks-0088CC?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-794263?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context_API-6D466E?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hooks-604A7A?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-525087?style=flat-square&logo=reactrouter&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-455594?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Babel-39589E?style=flat-square&logo=Babel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webpack-2B5EAC?style=flat-square&logo=Webpack&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Git_Convention-555555?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git_Convention-1764BD?style=flat-square&logo=github&logoColor=white"/>
 </div>
 
 <br/>
@@ -52,12 +53,12 @@
 ## Tools
 
 <div>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-1764BF?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-325BA5?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-3D579A?style=flat-square&logo=Slack&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Premiere_Pro-4A0054?style=flat-square&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/After_Effects-4A0054?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-505088?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-634977?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
 <br/>
 </div>
 
@@ -67,7 +68,7 @@
 <br/>
 <br/>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%238B96BA&title_bg=%23424D82&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%236F456C&title_bg=%236F456C&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
