@@ -41,9 +41,9 @@
 <br/>
 <img src="https://img.shields.io/badge/Python-455594?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Babel-39589E?style=flat-square&logo=Babel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webpack-2B5EAC?style=flat-square&logo=Webpack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webpack-34589E?style=flat-square&logo=Webpack&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Git_Convention-1764BD?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git_Convention-30589E?style=flat-square&logo=github&logoColor=white"/>
 </div>
 
 <br/>
@@ -53,12 +53,12 @@
 ## Tools
 
 <div>
-<img src="https://img.shields.io/badge/Notion-1764BF?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-295BA5?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-325BA5?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-3D579A?style=flat-square&logo=Slack&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Premiere_Pro-505088?style=flat-square&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/After_Effects-634977?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-554991?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
 <br/>
 </div>
 
@@ -68,7 +68,7 @@
 <br/>
 <br/>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%236F456C&title_bg=%236F456C&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%236044C1&title_bg=%236044C1&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
