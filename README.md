@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=45&desc=Code%20Poet&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7952B3&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=45&desc=Code%20Poet&descAlignY=65&animation=twinkling&fontColor=ffffff)
 
 <div align="center">
 
@@ -72,4 +72,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100&color=3E215D&fontColor=ffffff)
