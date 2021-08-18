@@ -2,8 +2,14 @@
   <defs>  
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=Lobster&amp;family=Lobster+Two&amp;display=swap');
+
+      * {
+        font-family: Tahoma, Verdana, Trebuchet MS, Helvetica, 'Lobster', Lobster, cursive;
+        font-weight: 500;
+        letter-spacing: -0.5rem;
+      }
     </style>
-    
+
     <!-- Da gradient -->
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0">
       <stop offset="0%" style="stop-color:#7B4262;"/>
@@ -36,6 +42,6 @@
   <rect x="0" y="0" fill="none" width="600px" height="300px" />
   
   <!-- Text using the #pattern in defs as the fill -->
-  <text x="50%" text-anchor="middle" y="50%" dy="0.4em" fill="url(#pattern)" font-family="'Lobster', Lobster, cursive" font-size="40vh">Seokzin So</text>
-  <text x="50%" text-anchor="middle" y="80%" dy="0.4em" fill="url(#pattern)" font-family="'Lobster', Lobster, cursive" font-size="15vh">Code Poet</text>
+  <text x="50%" text-anchor="middle" y="50%" dy="0.4em" fill="url(#pattern)" font-size="40vh">Seokzin So</text>
+  <text x="50%" text-anchor="middle" y="80%" dy="0.4em" fill="url(#pattern)" font-size="15vh">Code Poet</text>
 </svg>
