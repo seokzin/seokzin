@@ -6,7 +6,6 @@
       * {
         font-family: Tahoma, Verdana, Trebuchet MS, Helvetica, 'Lobster', Lobster, cursive;
         font-weight: 500;
-        letter-spacing: -0.5rem;
       }
     </style>
 
