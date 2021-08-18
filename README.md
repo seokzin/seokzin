@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7952B3&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=45&desc=Code%20Poet&descAlignY=65&animation=twinkling&fontColor=ffffff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=7952B3&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=45&desc=Code%20Poet&descAlignY=65&animation=twinkling&fontColor=ffffff)
+ -->
+<div align="center">
+  <img src="./test.svg">
+</div>
 
-<img src="./svg_test.svg">
 
 <div align="center">
   
@@ -73,5 +76,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%236044C1&title_bg=%236044C1&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
+<!-- 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100&color=3E215D&fontColor=ffffff)
+ -->
