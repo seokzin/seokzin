@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7952B3&height=250&section=header&text=Seokzin%20So&fontSize=80&fontAlignY=45&desc=Code%20Poet&descAlignY=65&animation=twinkling&fontColor=ffffff)
 
 <div align="center">
-
-![](test.webp)
   
 ## Hello, I'm Seokzin
   
