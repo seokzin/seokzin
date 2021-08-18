@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![](test.webp)
+  
 ## Hello, I'm Seokzin
   
 #### 🖥 Front-End MANIA 🖥 
