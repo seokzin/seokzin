@@ -71,9 +71,7 @@
 <br/>
 <br/> -->
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%233FB984&title_bg=%233FB984&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%233FB984&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100&color=3E215D&fontColor=ffffff) -->
 
