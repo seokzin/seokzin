@@ -10,7 +10,8 @@
 
   <br/>
   <br/>
-
+  <br/>
+  
   <img src="./solved.svg">
   <img src="./solved2.svg">
 </div>
