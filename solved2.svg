@@ -1,0 +1,176 @@
+
+    <!DOCTYPE svg PUBLIC
+        "-//W3C//DTD SVG 1.1//EN"
+        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="170" width="350"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve">
+    <style type="text/css">
+        <![CDATA[
+            @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@500;700;800&display=swap');
+
+            @keyframes fadeIn {
+                0%{
+                    opacity:0
+                }
+                100%{
+                    opacity:1
+                }
+            }
+            @keyframes delayFadeIn {
+                0%{
+                    opacity:0
+                }
+                80%{
+                    opacity:0
+                }
+                100%{
+                    opacity:1
+                }
+            }
+            @keyframes rateBarAnimation {
+                0% {
+                    stroke-dashoffset: 86.0;
+                }
+                70% {
+                    stroke-dashoffset: 86.0;
+                }
+                100%{
+                    stroke-dashoffset: 35;
+                }
+            }
+            .background {
+                fill: url(#grad);
+            }
+            text {
+                fill: white;
+                font-family: 'Mulish', sans-serif;
+            }
+            text.boj-handle {
+                font-weight: 700;
+                font-size: 1.30em;
+                animation: fadeIn 1s ease-in-out forwards;
+                fill: #918FE0;
+
+            }
+            text.tier-text {
+                font-weight: 700;
+                font-size: 1.45em;
+                opacity: 55%;
+            }
+            text.tier-number {
+                font-size: 3.1em;
+                font-weight: 700;
+                text-anchor: middle;
+                animation: delayFadeIn 2s ease-in-out forwards;
+            }
+            .subtitle {
+                font-weight: 500;
+                font-size: 0.9em;
+            }
+            .value {
+                font-weight: 400;
+                font-size: 0.9em;
+            }
+            .percentage {
+                font-weight: 300;
+                font-size: 0.8em;
+            }
+            .progress {
+                font-size: 0.7em;
+            }
+            .item {
+                opacity: 0;
+                animation: delayFadeIn 2s ease-in-out forwards;
+            }
+            .rate-bar {
+                stroke-dasharray: 86.0;
+                stroke-dashoffset: 86.0;
+                animation: rateBarAnimation 1.5s forwards ease-in-out;
+            }
+            .tier-title {
+                animation: delayFadeIn 2s ease-in-out forwards;
+            }
+        ]]>
+    </style>
+    <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="35%">
+            <stop offset="10%" style="stop-color:#20232A;stop-opacity:1">
+                <!-- <animate attributeName="stop-opacity" values="0.7; 0.73; 0.9 ; 0.97; 1; 0.97; 0.9; 0.73; 0.7;" dur="4s" repeatCount="indefinite" repeatDur="01:00"></animate> -->
+            </stop>
+            <stop offset="55%" style="stop-color:#20232A;stop-opacity:1">
+                <!-- <animate attributeName="stop-opacity" values="1; 0.95; 0.93; 0.95; 1;" dur="4s" repeatCount="indefinite" repeatDur="01:00"></animate> -->
+            </stop>
+            <stop offset="100%" style="stop-color:#20232A;stop-opacity:1">
+                <!-- <animate attributeName="stop-opacity" values="1; 0.97; 0.9; 0.83; 0.8; 0.83; 0.9; 0.97; 1;" dur="4s" repeatCount="indefinite" repeatDur="01:00"></animate> -->
+            </stop>
+        </linearGradient>
+    </defs>
+    <rect width="350" height="170" rx="10" ry="10" class="background"/>
+    <line x1="34" y1="50" x2="34" y2="105" stroke-width="2" stroke="white">
+        <animate attributeName="y2" dur="0.8s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.675 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="50 ; 50 ; 105" />
+    </line>
+    <line x1="34" y1="105" x2="67" y2="125" stroke-width="2" stroke="white">
+        <animate attributeName="x2" dur="1s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.8 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="34 ; 34 ; 67" />
+        <animate attributeName="y2" dur="1s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.8 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="105 ; 105 ; 125" />
+    </line>
+    <line x1="67" y1="125" x2="100" y2="105" stroke-width="2" stroke="white">
+        <animate attributeName="x2" dur="1.2s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.83333 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="67 ; 67 ; 100" />
+        <animate attributeName="y2" dur="1.2s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.83333 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="125 ; 125 ; 105" />
+    </line>
+    <line x1="100" y1="105" x2="100" y2="50" stroke-width="2" stroke="white">
+        <animate attributeName="y2" dur="1.5s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.8 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="105 ; 105 ; 50" />
+    </line>
+
+    <line x1="67" y1="130" x2="34" y2="110" stroke-width="2" stroke="white">
+        <animate attributeName="x2" dur="1.9s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.78947; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="67 ; 67 ; 34" />
+        <animate attributeName="y2" dur="1.9s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.78947 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="130 ; 130 ; 110" />
+    </line>
+
+    <line x1="67" y1="130" x2="100" y2="110" stroke-width="2" stroke="white">
+        <animate attributeName="x2" dur="1.9s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.78947 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="67 ; 67 ; 100" />
+        <animate attributeName="y2" dur="1.9s" fill="freeze"
+        calcMode="spline" keyTimes="0 ; 0.78947 ; 1"
+        keySplines="0 0 1 1 ; 0.5 0 0.5 1" values="130 ; 130 ; 110" />
+    </line>
+
+    <text x="135" y="50" class="boj-handle">seokzin</text>
+    <image href="data:image/png;base64,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uX0aiDsJW0k02MeF1t8PvO97zvF4eZyxeFXqRV9Ad5tRfizS5s9jvxMnlpeu9QT2tLMqtvnsVOCGxHFPpTxDKfuOl/TilCeArJxzYDXSxaIeoMF2SsC+TuzsCoWtw8beYifhxHSE0cNfMlp5hwvgqkiMudgYYdUxqTuBLRoczx7O72RQaU0HrD5EmTqPwmPphgcT3yn69Yn3x5ai30+NXZR7x+elIk2nr+Rg27C0wZisqm80L8Pa78O9mLFtr9bM7Ju3bB4iu04kYu6SiDmDzDHdkjZWc+IvAC7Ftrx/LRV2A28dflGZRgc/LMSXb97dUpwcP6OFnSOoVukJ4PuR9y9LvJJT5ZlqLB/4CPydHR7EyZMGNnTee0aN0zMWdyfnHC20jLRN2BeRt7ND5V2AsYLeTc2n7yJI/E716Mzj9PqWnRPci7ku8ZuYmTS4aRlo56KK5+4JrCZE9g1Ak87FvtFuG1onGgI+HTmGrEIw+InxKU9i36CtPdpiQyiptepfcN6/X+Q9D2FfMptgs+KTe/9WxS6SO2NFYM4mfufUzx1SAaY4792+4TmawsIX39gy7Fbhb9NTeekz9tTp7QKcMouBbW2AyyKvfZCMDBIsP7isAPoNNNi9BPsbG1xo1NpFt9fGy4iv3iwznBtNbCVRzIQYZgghBOL7Op2aGacArs74RY25mhrjlBX7NAlb1lo2rjwdZ1IL2zXA216nqVlAMhcTeGvk/Y2S2fvib83T9X1vI7OSV8O2D6d8WChrfoT4l2TK7ympNIa/WOVcMm4QsHmN/tS9+2lhZxmsdOWl2Hj0RdRcLJRoY5/I72fQPcDybbcf69ShTkc2G0onWgB8NnIMx9eItQpWNLuK6dgHZiiPKNjkynbAm7Ctc5L51fhb/zRxAelMhrE+xHKKa+/WUNLGMsBIZquxJ5OzeXrl2O+oUWcDG9KpaiZWA7d0iAfbnNVzBhn5+djT0SnYBHRrd6XDAOyAfUHF/AZLzRtah34S6cidDHO8oyHif7C1tnQGXkl8e5H5WM3ffXL+cEcJW7zRltsoKWadaH8S5ZkaXvreYgnLi045mwqTxqQXVlzMON/YoE3AC7EbkaOwYkLvwQpiDXVsd0XiExOnDK0jLSC+k2qjtBHsW/6Q3i/pSODNDGmn5DZhNWur7Pjq+SOWPVKrxgELr4CaxbAe7SYY4F2Uj6teTMadNPEhnn7bdngoMgi/4n2jCY9hwx4zy4prv33UfRsvsCL3uWlLT2BlHHej4Z0RdvHvT9cbSaGeiQKb6DwEyxc+iBrDKFjmRawUwJipHXRfYojv8voIHSWddwk4rORYYsWqF1vYbPK3saGU/sf/Odh+ZJdgixN2p+WavVh9hQuxBSBZO01IPdhCGm9ySTcnwwRcG/lFnDPqvtWBZSQcjc24zsUerWuX/ltcMIKx/FG0uTgjPgfyGC0WDpIKencdZZJFhkVkYsGGK8ZSEv+BpZRVrXchbSE+sVaphKKIiGTCxvkG3TrqfomILLKwWe4rBi687x11v0RExqtWJiewVS/7hRCeG0K4OYRwblEUtBFbREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREpOf/AaV2iRxNdZGBAAAAAElFTkSuQmCC" x="18" y="12" height="50px" width="100px" class="tier-title"/>
+    <text x="67" y="100" class="tier-number">5</text>
+    <g class="item" style="animation-delay: 200ms">
+        <text x="135" y="79" class="subtitle">rate</text><text x="225" y="79" class="rate value">1,630</text>
+    </g>
+    <g class="item" style="animation-delay: 400ms">
+        <text x="135" y="99" class="subtitle">solved</text><text x="225" y="99" class="solved value">289</text>
+    </g>
+    <g class="item" style="animation-delay: 600ms">
+        <text x="135" y="119" class="subtitle">class</text><text x="225" y="119" class="class value">5+</text>
+    </g>
+    <g class="rate-bar" style="animation-delay: 800ms">
+        <line x1="35" y1="142" x2="86.0" y2="142" stroke-width="4" stroke="floralwhite" stroke-linecap="round"/>
+    </g>
+    <line x1="35" y1="142" x2="290" y2="142" stroke-width="4" stroke-opacity="40%" stroke="floralwhite" stroke-linecap="round"/>
+    <text x="297" y="142" alignment-baseline="middle" class="percentage">20%</text>
+    <text x="293" y="157" class="progress" text-anchor="end">1,630 / 1,750</text>
+</svg>
+    
