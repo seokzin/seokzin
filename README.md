@@ -11,9 +11,38 @@
   <br/>
   <br/>
   <br/>
+ 
+  ## Skills
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-3484D2?logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next-444444?logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-444444?logo=github&logoColor=white"/>
   
-  <img src="./solved.svg">
-  <img src="./solved2.svg">
+  <br />
+  <br />
+  <br />
+  
+  ## Interested in
+  
+  <img src="https://img.shields.io/badge/Canvas-E34F26?logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-444444?logo=Three.js&logoColor=white"/>
+  
+  <br />
+  <br />
+  <br />
+  
+  ## Algorithm
+  <a href="https://solved.ac/profile/seokzin">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=seokzin" />
+  </a>
+
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 </div>
 
 <div align="center">
@@ -36,8 +65,6 @@
 <!-- [![seokzin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokzin&layout=compact&langs_count=6&card_width=573)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seokzin&hide_border=true)](https://git.io/streak-stats) -->
-<br/>
-<br/>
   
 <!-- ## Stacks
 
