@@ -15,9 +15,9 @@
   ## Skills
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-3484D2?logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-444444?logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-444444?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-455594?logo=python&logoColor=white"/>
   
   <br />
   <br />
