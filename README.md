@@ -25,8 +25,8 @@
   
   ## Interested in
   
-  <img src="https://img.shields.io/badge/Canvas-E34F26?logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-444444?logo=Three.js&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Canvas-E34F26?logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-444444?logo=Three.js&logoColor=white"/> -->
   
   <br />
   <br />
