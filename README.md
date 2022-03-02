@@ -7,12 +7,16 @@
   <br/>
 
   <h1>Renewal 🛠</h1>
-
+  <a href="">
+    <img src="https://img.shields.io/badge/Resume-EA410B?logo=Notion&logoColor=white"/>
+  </a>
   <br/>
   <br/>
   <br/>
  
-  ## Skills
+  ## Skills  
+  <br />
+  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-3484D2?logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white"/>
@@ -109,9 +113,12 @@
 <br/>
 <br/>
 <br/> -->
+<br />  
+<br />
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokzin&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
+  <br />
 </div>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100&color=3E215D&fontColor=ffffff) -->
