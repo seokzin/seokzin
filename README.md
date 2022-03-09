@@ -7,9 +7,9 @@
   <br/>
 
   <h1>Renewal 🛠</h1>
-  <a href="https://seokzin.notion.site/seokzin/81ee43a138a14864842f72425c1bd1f5">
+<!--   <a href="https://seokzin.notion.site/seokzin/81ee43a138a14864842f72425c1bd1f5">
     <img src="https://img.shields.io/badge/Resume-EA410B?logo=Notion&logoColor=white"/>
-  </a>
+  </a> -->
   <br/>
   <br/>
   <br/>
