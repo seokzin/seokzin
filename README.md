@@ -29,6 +29,7 @@
   <br />
 
   <img src="https://img.shields.io/badge/JS-555555"/>
+  <img src="https://img.shields.io/badge/TS-555555"/>
   <img src="https://img.shields.io/badge/OOP-555555"/>
   <img src="https://img.shields.io/badge/FP-555555"/>
   <img src="https://img.shields.io/badge/TDD-555555"/>
@@ -38,7 +39,7 @@
     
   <img src="https://img.shields.io/badge/UI/UX-555555"/>
   <img src="https://img.shields.io/badge/BOOK-555555"/>
-  <img src="https://img.shields.io/badge/WRITING-555555" />
+  <img src="https://img.shields.io/badge/WRITING-555555"/>
   
   <br />
   <br /> 
