@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-333333?logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-333333?logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-333333?logo=Vue.js&logoColor=white" />
 
   <br />
 
